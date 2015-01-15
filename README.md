@@ -1,6 +1,6 @@
 # Finding the top languages on Reddit.
 
-Hacky and ugly code, the pixies made me do it.
+Warning: Code was hacked together while waiting for Poirot to finish explaining who the killer is.
 
 ![alt tag](https://github.com/shantnu/reddit-top-langs/blob/master/least_pop_lang.png)
 
